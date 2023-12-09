@@ -1,0 +1,10 @@
+﻿{
+  "type": "Plugin",
+  "name": "System Mic Muter",
+  "author": "WhoDunIt",
+  "repository": "none",
+  "packageId": "WhoDunIt.MacroDeckMicPlugin",
+  "version": "1.0.0",
+  "target-plugin-api-version": 40,
+  "dll": "WhoDunIt.MacroDeckMicPlugin.dll"
+}

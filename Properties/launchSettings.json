@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Macro Deck Mic Plugin": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Nick\\AppData\\Local\\Programs\\Macro Deck\\Macro Deck 2.exe",
+      "commandLineArgs": "--portable --show --loglevel 1 --debug-console",
+      "nativeDebugging": true
+    }
+  }
+}
